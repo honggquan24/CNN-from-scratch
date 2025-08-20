@@ -1,8 +1,3 @@
-Dưới đây là phiên bản viết lại của `README.md` cho dự án **CNN-from-scratch**, theo **đúng cấu trúc mẫu bạn cung cấp cho MLP**, đồng bộ hóa nội dung và format để đảm bảo chuyên nghiệp và nhất quán:
-
----
-
-````markdown
 # CNN-FROM-SCRATCH
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
@@ -123,4 +118,3 @@ CNN-from-scratch/
 ├── requirements.txt
 └── notebook/
     └── images/           # Visualizations: conv_feature_map.png, cnn_synthetic_result.png, etc.
-```
