@@ -7,10 +7,11 @@
 A fully from-scratch implementation of a Convolutional Neural Network (CNN) in Python using only NumPy.  
 Includes convolutional layers, pooling, activation functions, optimizers, loss functions, dropout, batch normalization, and custom data generation.  
 This project is designed for learning, experimenting, and extending convolutional network fundamentals without relying on high-level frameworks like TensorFlow or PyTorch.
+Explore the Multilayer Perceptron demo live at: https://vhq-portfolio.streamlit.app/Demo_CNN
 
 ---
 
-## 1. Introduction
+# Introduction
 
 This project provides an educational and transparent implementation of a Convolutional Neural Network (CNN) built entirely from scratch using NumPy.
 
@@ -21,7 +22,7 @@ This project provides an educational and transparent implementation of a Convolu
 
 ---
 
-## 2. Demo Screenshots
+# Demo Screenshots
 
 ### 1. Feature Map Visualization  
 _Example result of applying convolutional filters to synthetic data._  
@@ -33,7 +34,7 @@ _Image to be added: `notebook/images/cnn_synthetic_result.png`_
 
 ---
 
-## 3. Key Features
+# Key Features
 
 - **Layer Implementations:**
   - Convolutional layers (`Conv2D`) with custom stride, padding, and kernel
@@ -66,7 +67,7 @@ _Image to be added: `notebook/images/cnn_synthetic_result.png`_
 
 ---
 
-## 4. System Requirements
+# System Requirements
 
 - Python 3.8 or later  
 - Required libraries:
@@ -75,11 +76,11 @@ _Image to be added: `notebook/images/cnn_synthetic_result.png`_
   matplotlib>=3.4.0
   scikit-learn>=1.0.0
   tensorflow>=2.8.0  # (used only to load MNIST or external datasets)
-````
+  ```
 
 ---
 
-## 5. Installation & Usage
+# Installation & Usage
 
 Clone the repository:
 
@@ -104,7 +105,7 @@ pip install -r requirements.txt
 
 ---
 
-## 6. Folder Structure
+# Folder Structure
 
 ```
 CNN-from-scratch/
@@ -118,3 +119,10 @@ CNN-from-scratch/
 ├── requirements.txt
 └── notebook/
     └── images/           # Visualizations: conv_feature_map.png, cnn_synthetic_result.png, etc.
+```
+
+# Configuration
+No specific configuration files are used. The MLP’s hyperparameters (e.g., number of layers, neurons per layer, learning rate) are set directly within the Jupyter notebooks.
+
+# License
+This project is licensed under the MIT License - see the LICENSE file for details. (Note: No LICENSE file was detected in the repository’s contents.)
