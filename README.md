@@ -7,7 +7,7 @@
 A fully from-scratch implementation of a Convolutional Neural Network (CNN) in Python using only NumPy.  
 Includes convolutional layers, pooling, activation functions, optimizers, loss functions, dropout, batch normalization, and custom data generation.  
 This project is designed for learning, experimenting, and extending convolutional network fundamentals without relying on high-level frameworks like TensorFlow or PyTorch.
-Explore the Multilayer Perceptron demo live at: https://vhq-portfolio.streamlit.app/Demo_CNN
+Explore the Multilayer Perceptron demo live at: [https://vhq-portfolio.streamlit.app/Demo_CNN](https://vhq-portfolio.streamlit.app/CNN)
 
 ---
 
